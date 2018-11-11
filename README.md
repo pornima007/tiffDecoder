@@ -1,1 +1,3 @@
 # tiffDecoder
+
+Decodes tiff file
